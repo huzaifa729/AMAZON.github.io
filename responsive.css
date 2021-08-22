@@ -1,0 +1,164 @@
+@media only screen and (max-width: 1250px){
+      .navbar{
+          display: flex;
+    width: 1110px;
+
+      }
+      .nav-list{
+          display: flex;
+          margin: 9px;
+          padding: 2px 6px;
+      
+         
+      }
+
+      .kon img{
+          height: 23px;
+      }
+
+.sri{
+    font-size: 12px;
+    text-align: center;
+}
+.pri{
+    text-align: center;
+}
+  .kirr{
+      font-size: 12px;
+      padding: 0px 12px;
+   
+  }
+  .ee i{
+      font-size: 10px;
+    
+  }
+  i{
+    display: flex;
+  }
+
+  .hero{
+    font-size: 13px;
+    padding: 0px 2px;
+
+  }
+
+
+  .huk img{
+      height: 18px;
+  }
+  .huk{
+      display: flex;
+      font-size: 12px;
+      margin: 5px;
+  }
+
+  .nav{
+    display: flex;
+    width: 1029px;
+  
+  }
+  ul{
+      display: flex;
+    
+  }
+
+  .nav li{
+    display: flex;
+ 
+    margin: 10px;
+    font-size: 10px;
+
+   
+  }
+
+  .right-nav{
+  
+    text-align: right;
+    font-size: 16px;
+}
+
+.slidercontainer {  
+    width: 100%;
+     display: flex;
+  }
+  
+  .showSlide img {  
+    width: 1114px;
+      
+} 
+ 
+.kife{
+    display: flex;
+    margin: 0px;
+ 
+}
+
+.polaro img{
+    padding-top: 8px;
+     height: 200px;
+     width: 226px;
+ }
+ .polaroid img{
+    padding-top: 8px;
+     height: 210px;
+     width: 226px;
+ }
+
+ .polaro{
+    padding-top: 10px;
+   margin: 0px;
+ }
+ .boc{
+    display: flex;
+    margin: 4px 5px;
+    padding: 3px 0px;
+}
+ 
+ .boc img{
+     height: 190px;
+     width: 214px;
+     
+ }
+
+
+ 
+ .primary{
+     font-size: 11px;
+ }
+
+ .conto{
+    margin: 6px 19px;
+    padding: 5px 20px;
+    
+   
+}
+.pri-se{
+    padding-right: 143px;
+}
+
+.ho{
+    margin: 14px;
+    padding: 2px 30px;
+    
+   
+}
+
+.second{
+    display: flex;
+  padding: 12px 34px;
+ font-size: 14px;
+  
+  
+}
+
+.second li{
+    padding: 3px 10px;
+}
+
+
+
+
+
+
+
+ }

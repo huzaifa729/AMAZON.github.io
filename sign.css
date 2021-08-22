@@ -1,0 +1,146 @@
+
+
+
+
+.imm img{
+    height: 48px;
+   
+}
+
+.imm{
+    text-align: center;
+    margin: 3px;
+    
+}
+
+.hell{
+    height: 305px;
+     /* padding: 15px; */
+    padding-right: 123px;
+    font-size: 19px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 23px 0 rgba(0, 0, 0, 0.19); 
+    width: 230px;
+    margin: auto;
+  
+   
+}
+h2{
+    margin: 2px 6px;
+    padding: 12px; 
+    
+}
+
+label{
+     padding: 2px 17px;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+input{
+    margin: 2px 17px;
+    padding: 2px 31px;
+    font-size: 17px;
+}
+.by{
+    margin: 6px;
+}
+.Cont{
+    margin: 2px 13px;
+    width: 278px;
+    font-size: 14px;
+    padding: 6px;
+    background-color: rgb(245, 187, 80);
+    border-radius: 5px;
+    cursor: pointer;
+   
+}
+.yii{
+  padding-top: 11px;
+}
+.pri{
+    margin: 3px 16px;
+    font-size: 10px;
+    
+     /* font-family: Arial, Helvetica, sans-serif;  */
+
+}
+.sri{
+    margin: 2px 16px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+sp{
+    color: rgb(92, 92, 194);
+    cursor: pointer;
+}
+sp:hover{
+    color: orangered;
+    text-decoration: underline;
+}
+
+.hs{
+    padding-top: 10px;
+    
+}
+i{
+    margin: 2px 16px;
+    font-size: 14px;
+}
+spa{
+    color: rgb(92, 92, 194);
+    font-size: 16px;
+    padding: 3px 4px;
+  
+}
+spa:hover{
+    color: orangered;
+    text-decoration: underline;
+}
+
+
+  .si{
+      padding-top: 22px;
+      text-align: center;
+      color: #767676;
+  }
+ 
+
+
+
+.ll{
+    text-align: center;
+}
+
+#btn{
+    width: 310px;
+    padding: 7px;
+    background-color: rgb(235, 227, 227);
+    border-radius: 3px;
+    cursor: pointer;
+    font-size: 13px;
+}
+
+#btn:hover{
+    background-color: rgb(204, 194, 194);
+}
+
+.yel{
+    text-align: center;
+    padding-top: 33px;
+}
+spe{
+    margin: 3px 5px;
+    font-size: 12px;
+    color: rgb(92, 92, 194);
+    cursor: pointer;
+}
+spe:hover{
+    color: orangered;
+    text-decoration: underline;
+}
+.foot{
+    text-align: center;
+    font-size: 12px;
+   color: #555;
+}
